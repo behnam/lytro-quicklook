@@ -1,6 +1,8 @@
 # Lytro "Quick Look" Plugin
 This is my experimental Quick Look plugin for Lytro images, so it's for Mac OS X only. It enables the Finders' Quick Look feature for shareable Light Field Picture files. 
 
+![Lytro Quick Look Plugin - Screenshot](http://cloud.github.com/downloads/maxvw/lytro-quicklook/lytro-quicklook%20screenshot.png)
+
 ## Installation
 I've uploaded the source code here, as well as the generated binary *.qlgenerator for people who want to just want to use it, available at the downloads section.
 
