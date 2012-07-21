@@ -4,7 +4,7 @@ This is my experimental Quick Look plugin for Lytro images, so it's for Mac OS X
 ![Lytro Quick Look Plugin - Screenshot](http://cloud.github.com/downloads/maxvw/lytro-quicklook/lytro-quicklook%20screenshot.png)
 
 ## Installation
-I've uploaded the source code here, as well as the generated binary *.qlgenerator for people who want to just want to use it, available at the downloads section.
+I've uploaded the source code here, as well as the generated binary *.qlgenerator for people who want to just want to use it, available at [the downloads section](https://github.com/maxvw/lytro-quicklook/downloads).
 
 To install simply copy the binary `Lytro.qlgenerator` to `~/Library/QuickLook/` and restart. If you don't want to restart you can also try `qlmanage -r` in the Terminal.app to reset the Quick Look daemon. 
 
